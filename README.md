@@ -7,8 +7,7 @@ In order to make break, I use DTR to carry out it.<br>
 <br>
 ![pic](pic/protocol.jpg)<br>
 <br>
-
-
+![pic](pic/schematic.jpg)<br>
 <br>
 ![pic](pic/1.jpg) <br>
 <br>
