@@ -15,3 +15,15 @@ In order to make status of break, I use DTR to carry out it.<br>
 <br>
 ![pic](pic/3.jpg) <br>
 <br>
+# Test sample code
+## Test par light
+Make sure /dev/ttyUSB0 is a+rw<br>
+Make sure address of par light is 001.<br>
+Test red light.<br>
+Test green light.<br>
+Test blue light.<br>
+Test off light.<br>
+
+## Test magic ball light
+Make sure /dev/ttyUSB0 is a+rw<br>
+Make sure address of par light is 001.<br>
