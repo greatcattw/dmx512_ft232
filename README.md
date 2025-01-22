@@ -18,9 +18,8 @@ In order to make status of break, I use DTR to carry out it.<br>
 # Test sample code
 ## Test par light
 <br>
-Datasheet of channel 
-<br>
-<br>
+Datasheet of channel <br>
+
 ![pic](pic/par_ch_function.jpg) <br>
 <br>
 Make sure /dev/ttyUSB0 is a+rw<br>
