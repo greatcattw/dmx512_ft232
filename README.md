@@ -17,6 +17,9 @@ In order to make status of break, I use DTR to carry out it.<br>
 <br>
 # Test sample code
 ## Test par light
+<br>
+![pic](pic/par_ch_function.jpg) <br>
+<br>
 Make sure /dev/ttyUSB0 is a+rw<br>
 Make sure address of par light is 001.<br>
 Test red light.<br>
