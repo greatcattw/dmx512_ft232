@@ -18,6 +18,7 @@ In order to make status of break, I use DTR to carry out it.<br>
 # Test sample code
 ## Test par light
 <br>
+Datasheet of channel 
 <br>
 <br>
 ![pic](pic/par_ch_function.jpg) <br>
