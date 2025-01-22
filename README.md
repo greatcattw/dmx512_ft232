@@ -10,9 +10,9 @@ In order to make break, I use DTR to carry out it.<br>
 
 
 <br>
-![pic](pic/1.jpg)<br>
+![pic](pic/1.jpg) <br>
 <br>
-![pic](pic/2.jpg)<br>
+![pic](pic/2.jpg) <br>
 <br>
-![pic](pic/3.jpg)<br>
+![pic](pic/3.jpg) <br>
 <br>
