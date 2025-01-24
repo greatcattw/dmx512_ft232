@@ -42,3 +42,11 @@ Make sure address of par light is 001.<br>
 ![pic](pic/ball_ch_function.jpg) <br>
 Make sure /dev/ttyUSB0 is a+rw<br>
 Make sure address of par light is 001.<br>
+### Test red light.<br>
+./a.out 39 0 0 0 0 0 0 0 0 0 <br>
+
+### Test green light.<br>
+./a.out 59 0 0 0 0 0 0 0 0 0 <br>
+
+### Test blue light.<br>
+./a.out 79 0 0 0 0 0 0 0 0 0 <br>
