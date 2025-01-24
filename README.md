@@ -30,5 +30,8 @@ Test blue light.<br>
 Test off light.<br>
 
 ## Test magic ball light
+<br>
+
+![pic](pic/ball_ch_function.jpg) <br>
 Make sure /dev/ttyUSB0 is a+rw<br>
 Make sure address of par light is 001.<br>
