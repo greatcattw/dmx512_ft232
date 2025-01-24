@@ -15,6 +15,8 @@ In order to make status of break, I use DTR to carry out it.<br>
 <br>
 ![pic](pic/3.jpg) <br>
 <br>
+![pic](pic/box_id.jpg) <br>
+<br>
 # Test sample code
 ## Test par light
 <br>
