@@ -26,7 +26,7 @@ Datasheet of channel <br>
 <br>
 Make sure /dev/ttyUSB0 is a+rw<br>
 Make sure address of par light is 001.<br>
-###Test red light.<br>
+### Test red light.<br>
 ./a.out 255 255 0 0 0 0 0 0 0 0 <br>
 
 ### Test green light.<br>
