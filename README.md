@@ -1,6 +1,6 @@
 # dmx512_ft232
-Using FTDI ft232 as host controller to control DMX512 device in Ubuntu<br>
-# In progress
+Using FTDI ft232 as host controller to control DMX512 device in Ubuntu 22<br>
+![pic](pic/light.jpg)<br>
 ## Discription
 DMX512 protocol includes a status of break.<br>
 In order to make status of break, I use DTR to carry out it.<br>
