@@ -9,6 +9,8 @@ In order to make status of break, I use DTR to carry out it.<br>
 <br>
 ![pic](pic/schematic.jpg)<br>
 <br>
+![pic](pic/rs485.jpg)<br>
+<br>
 ![pic](pic/1.jpg) <br>
 <br>
 ![pic](pic/2.jpg) <br>
